@@ -1,5 +1,5 @@
-# daily_steps
-<p align="center"><img src="screenshot.png"/></p>
+# Outdoor Activity
+<p align="center"><img src="logo.png"/></p>
 
  This is a Flutter app sample that demonstrates tracking daily steps in Flutter.
 
