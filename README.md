@@ -1,8 +1,8 @@
 # Outdoor Activity
 <p align="center"><img src=".\assets/logo.png"/></p>
 
- This is a Flutter app sample that demonstrates tracking daily steps in Flutter.
+ Outdoor Activity ist eine Schrittzähler-App, die den eingebauten Sensor nutzt, um die Schritte zu zählen. Er verfolgt die verbrannten Kalorien, zurückgelegte Strecke und Zeit. Diese Daten werden abgezeichnet und graphisch dargestellt. Außerdem können Ziele einfach gesetzt werden.
+	Mit der App kann man in Salzburg beliebte Wanderungsziele finden und kinderleicht eigene Routen planen. Pack dein Smartphone einfach in deine Hosentasche und es kann losgehen!
+ 
 
- Blog post: https://blog.maskys.com/implementing-a-daily-step-count-pedometer-in-flutter/
-
- **Note:** To get this working on iOS, please do not forget to carry out the steps mentioned [here](https://github.com/cph-cachet/flutter-plugins/tree/master/packages/pedometer).
+ 
